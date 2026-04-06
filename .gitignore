@@ -1,0 +1,18 @@
+# Large model files
+*.h5
+*.keras
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Optional heavy folders
+model/
+figures/outputs/
+
+*.h5
+*.keras
